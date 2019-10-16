@@ -2,12 +2,17 @@
 
 *Jeśli znalazłe(a)ś coś ciekawego i chciał(a)byś uzupełnić tę listę, zrób fork i pull request!*
 
+## Bayesian probability
+
+- [Bayes Theorem](https://www.youtube.com/watch?v=XQoLVl31ZfQ)
+- [!!! Wei Ji Ma: Modeling of behavior](https://www.youtube.com/watch?v=H1vp10PVKcw)
+
 ## Predictive coding
 
 #### Video & web
 
-- [Predictive coding - Wikipedia](https://en.wikipedia.org/wiki/Predictive_coding)
-- [Andy Clark: Happily Entangled: Emotions Cognition and the Predictive Mind](https://www.youtube.com/watch?v=OS3RM3F8YmE)
+- [!!! Predictive coding - Wikipedia](https://en.wikipedia.org/wiki/Predictive_coding)
+- [!!! Andy Clark: Happily Entangled: Emotions Cognition and the Predictive Mind](https://www.youtube.com/watch?v=OS3RM3F8YmE)
 - [Center for Cognitive Neuroscience at Dartmouth 2016 Workshop: Predictive Coding (m.in. Friston, Hohwy)](https://www.youtube.com/watch?v=8oyy5jmz8Ws&list=PLPDZ9rcIfxyMZacItqYr58NLzvtRPZcRQ)
 - [David Cox: Predictive Coding Models of (visual) Perception](https://www.youtube.com/watch?v=P0yVuoATjzs)
 
