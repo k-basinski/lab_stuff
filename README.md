@@ -30,3 +30,8 @@
 - [Beginners guide to speech analysis](https://towardsdatascience.com/beginners-guide-to-speech-analysis-4690ca7a7c05)
 - [Extracting features from music](https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d)
 - [Librosa](https://librosa.github.io/librosa/index.html)
+
+## Konferencje, laby
+
+- [Conference on Computational Cognitive Neuroscience (CCN)](https://ccneuro.org/)
+- [McDermott Lab](http://mcdermottlab.mit.edu)
