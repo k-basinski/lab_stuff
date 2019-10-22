@@ -27,6 +27,7 @@
 
 ## Audio feature extraction
 
+- !!! [Essentia - Open-source library and tools for audio and music analysis, description and synthesis](https://essentia.upf.edu/)
 - [Beginners guide to speech analysis](https://towardsdatascience.com/beginners-guide-to-speech-analysis-4690ca7a7c05)
 - [Extracting features from music](https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d)
 - [Librosa](https://librosa.github.io/librosa/index.html)
