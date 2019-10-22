@@ -24,6 +24,7 @@
 - Koelsch, S., Vuust, P., & Friston, K. (2019). Predictive Processes and the Peculiar Case of Music. Trends in Cognitive Sciences, 23(1), 63–77. [pdf](http://stefan-koelsch.de/papers/koelsch_vuust_friston_2018_predictive_processes_and_the_peculiar_case_of_music_trends_in_cognitive_sciences.pdf)
 - Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews. Neuroscience, 11(2), 127–138. [pdf](https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf)
 - Friston, K. (2018). Does predictive coding have a future? Nature Neuroscience, 21(8), 1019–1021. [pdf](https://discovery.ucl.ac.uk/id/eprint/10056744/1/Friston_News%20and%20views.pdf)
+- _Predictive coding of visual–auditory and motor-auditory events: An electrophysiological study_ Jeroen J.Stekelenburg Jean Vroomen [TUTAJ](http://spitswww.uvt.nl/fsw/psychologie/cognitive-neuropsychology/Pubs/Jean/103.pdf)
 
 
 ## Audio feature extraction
