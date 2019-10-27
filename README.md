@@ -16,6 +16,7 @@
 - [Center for Cognitive Neuroscience at Dartmouth 2016 Workshop: Predictive Coding (m.in. Friston, Hohwy)](https://www.youtube.com/watch?v=8oyy5jmz8Ws&list=PLPDZ9rcIfxyMZacItqYr58NLzvtRPZcRQ)
 - [David Cox: Predictive Coding Models of (visual) Perception](https://www.youtube.com/watch?v=P0yVuoATjzs)
 - [Karl Friston on “I Am Therefore I Think”](https://www.youtube.com/watch?v=G_sQZeFRjR8)
+- [Bayesian Epistemology & Predictive Processing](https://www.youtube.com/watch?v=pLcIT3kjsW0&fbclid=IwAR3J_chLDqrMFTQ02a1kJwU2SNRb50-D8cmk8Bl99FFmeyrNoE2_qllgqg0)
 
 
 #### Papers
@@ -25,6 +26,7 @@
 - Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews. Neuroscience, 11(2), 127–138. [pdf](https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf)
 - Friston, K. (2018). Does predictive coding have a future? Nature Neuroscience, 21(8), 1019–1021. [pdf](https://discovery.ucl.ac.uk/id/eprint/10056744/1/Friston_News%20and%20views.pdf)
 - _Predictive coding of visual–auditory and motor-auditory events: An electrophysiological study_ Jeroen J.Stekelenburg Jean Vroomen [TUTAJ](http://spitswww.uvt.nl/fsw/psychologie/cognitive-neuropsychology/Pubs/Jean/103.pdf)
+- Sanmiguel, I., Saupe, K., & Schröger, E. (2013). I know what is missing here: electrophysiological prediction error signals elicited by omissions of predicted ”what” but not ”when”. Frontiers in Human Neuroscience, 7(July), 1–10. [KLIK](https://www.frontiersin.org/articles/10.3389/fnhum.2013.00407/full)
 
 
 ## Audio feature extraction
