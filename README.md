@@ -43,3 +43,4 @@
 
 - [Conference on Computational Cognitive Neuroscience (CCN)](https://ccneuro.org/)
 - [McDermott Lab](http://mcdermottlab.mit.edu)
+- [Iria San Miguel](http://www.neurociencies.ub.edu/iria-sanmiguel/)
