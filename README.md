@@ -28,6 +28,7 @@
 - Stekelenburg, J. J., & Vroomen, J. (2015). Predictive coding of visual–auditory and motor-auditory events: An electrophysiological study. Brain research, 1626, 88-96. [TUTAJ](http://spitswww.uvt.nl/fsw/psychologie/cognitive-neuropsychology/Pubs/Jean/103.pdf)
 - _Predictive coding of visual–auditory and motor-auditory events: An electrophysiological study_ Jeroen J.Stekelenburg Jean Vroomen [TUTAJ](http://spitswww.uvt.nl/fsw/psychologie/cognitive-neuropsychology/Pubs/Jean/103.pdf)
 - Sanmiguel, I., Saupe, K., & Schröger, E. (2013). I know what is missing here: electrophysiological prediction error signals elicited by omissions of predicted ”what” but not ”when”. Frontiers in Human Neuroscience, 7(July), 1–10. [KLIK](https://www.frontiersin.org/articles/10.3389/fnhum.2013.00407/full)
+- Aitchison, L., & Lengyel, M. (2017). With or without you: predictive coding and Bayesian inference in the brain. Current opinion in neurobiology, 46, 219–227. doi:10.1016/j.conb.2017.08.010 [KLIK](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836998/)
 
 
 
@@ -43,4 +44,5 @@
 
 - [Conference on Computational Cognitive Neuroscience (CCN)](https://ccneuro.org/)
 - [McDermott Lab](http://mcdermottlab.mit.edu)
+- [Auditory Perception and Cognition Laboratory - University of Minnesota](http://apc.psych.umn.edu/)
 - [Iria San Miguel](http://www.neurociencies.ub.edu/iria-sanmiguel/)
