@@ -29,7 +29,8 @@
 - _Predictive coding of visual–auditory and motor-auditory events: An electrophysiological study_ Jeroen J.Stekelenburg Jean Vroomen [TUTAJ](http://spitswww.uvt.nl/fsw/psychologie/cognitive-neuropsychology/Pubs/Jean/103.pdf)
 - Sanmiguel, I., Saupe, K., & Schröger, E. (2013). I know what is missing here: electrophysiological prediction error signals elicited by omissions of predicted ”what” but not ”when”. Frontiers in Human Neuroscience, 7(July), 1–10. [KLIK](https://www.frontiersin.org/articles/10.3389/fnhum.2013.00407/full)
 - Aitchison, L., & Lengyel, M. (2017). With or without you: predictive coding and Bayesian inference in the brain. Current opinion in neurobiology, 46, 219–227. doi:10.1016/j.conb.2017.08.010 [KLIK](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836998/)
-
+- Musical prediction error responses similarly reduced by predictive uncertainty in musicians and non-musicians D.R. Quiroga-Martinez, N.C. Hansen, A. Højlund, M. Pearce, E. Brattico, P. Vuust bioRxiv 754333; doi: https://doi.org/10.1101/754333 [PIK](https://www.biorxiv.org/content/biorxiv/early/2019/09/01/754333.full.pdf)
+- D.R. Quiroga-Martinez, N.C. Hansen, A. Højlund, M. Pearce, E. Brattico and P. Vuust, Reduced prediction error responses in high-as compared to low-uncertainty musical contexts, Cortex, 10.1016/j.cortex.2019.06.010, (2019). [PIK](https://www.researchgate.net/profile/Massimo_Lumaca/publication/329951313_Weighting_of_neural_prediction_error_by_rhythmic_complexity_a_predictive_coding_account_using_Mismatch_Negativity/links/5c45867a299bf12be3d7a11c/Weighting-of-neural-prediction-error-by-rhythmic-complexity-a-predictive-coding-account-using-Mismatch-Negativity.pdf)
 
 
 ## Audio feature extraction
