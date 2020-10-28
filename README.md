@@ -1,15 +1,41 @@
-# lab_stuff
+# ACLab Stuff
+
+- [ACLab Stuff](#aclab-stuff)
+  - [Predictive coding](#predictive-coding)
+    - [Intro](#intro)
+    - [From the man himself...](#from-the-man-himself)
+    - [More on Bayesian probability](#more-on-bayesian-probability)
+    - [More videos & web](#more-videos--web)
+    - [Papers](#papers)
+  - [Audio feature extraction](#audio-feature-extraction)
+  - [Konferencje, laby](#konferencje-laby)
 
 *Jeśli znalazłe(a)ś coś ciekawego i chciał(a)byś uzupełnić tę listę, zrób fork i pull request! Jeśli jest to artykuł naukowy, wklej tu opis bibliograficzny (APA) oraz link do full-textu, jeśli jest gdzieś dostępny (najlepiej poszukać w Google Scholar). Nie uploadujcie pdf-ów do repo, chyba że jesteście pewni, że dany artykuł jest w open acess (problemy z prawami autorskimi).*
 
-## Bayesian probability
+## Predictive coding
+
+### Intro
+
+1. [Basic Bayesian Brain](https://www.youtube.com/watch?v=c6OOtzbTXSU)
+2. [Brain predictions interfere with what you see](https://www.youtube.com/watch?v=RgWgfdLZciM&t=1s)
+3. [Lisa Feldman Barrett & Lex Fridman (polecam cały wywiad, ale ważne zaczyna się od 24:00)](https://www.youtube.com/watch?v=NbdRIVCBqNI&t=4838s)
+
+
+
+### From the man himself...
+
+1. [Embodied Cognition](https://www.youtube.com/watch?v=HW0JnjgCO3o)
+2. [Free Energy Principle](https://www.youtube.com/watch?v=NIu_dJGyIQI)
+3. [Karl Friston vs Lex Fridman](https://www.youtube.com/watch?v=NwzuibY5kUs)
+
+
+### More on Bayesian probability
 
 - [Bayes Theorem](https://www.youtube.com/watch?v=XQoLVl31ZfQ)
 - [!!! Wei Ji Ma: Modeling of behavior](https://www.youtube.com/watch?v=H1vp10PVKcw)
 
-## Predictive coding
 
-#### Video & web
+### More videos & web
 
 - [!!! Predictive coding - Wikipedia](https://en.wikipedia.org/wiki/Predictive_coding)
 - [!!! Andy Clark: Happily Entangled: Emotions Cognition and the Predictive Mind](https://www.youtube.com/watch?v=OS3RM3F8YmE)
@@ -19,8 +45,9 @@
 - [Bayesian Epistemology & Predictive Processing](https://www.youtube.com/watch?v=pLcIT3kjsW0&fbclid=IwAR3J_chLDqrMFTQ02a1kJwU2SNRb50-D8cmk8Bl99FFmeyrNoE2_qllgqg0)
 
 
-#### Papers
+### Papers
 
+- Rao, R., Huag, Y (2011). Predictive coding. WIREs Cognitive Science, 2, 581-593. [pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcs.142?casa_token=maA6Ta6KrUkAAAAA%3AHhvGvMjzjRJQlMiLN0Gb9goiRd45d4M2F3MGZVAuf1dhiqVvyuNFo8syNpgc38qGW_IrPHjcaEAwVw)
 - !!! Friston, K. (2005). A theory of cortical responses. Philosophical Transactions of the Royal Society B: Biological Sciences, 360(1456), 815–836. [pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1569488/pdf/rstb20051622.pdf)
 - Koelsch, S., Vuust, P., & Friston, K. (2019). Predictive Processes and the Peculiar Case of Music. Trends in Cognitive Sciences, 23(1), 63–77. [pdf](http://stefan-koelsch.de/papers/koelsch_vuust_friston_2018_predictive_processes_and_the_peculiar_case_of_music_trends_in_cognitive_sciences.pdf)
 - Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews. Neuroscience, 11(2), 127–138. [pdf](https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf)
