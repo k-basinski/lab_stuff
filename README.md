@@ -1,24 +1,21 @@
-# ACLab Stuff
-
-- [ACLab Stuff](#aclab-stuff)
-  - [Predictive coding](#predictive-coding)
-    - [Intro](#intro)
-    - [From the man himself...](#from-the-man-himself)
-    - [More on Bayesian probability](#more-on-bayesian-probability)
-    - [More videos & web](#more-videos--web)
-    - [Papers](#papers)
-  - [Audio feature extraction](#audio-feature-extraction)
-  - [Konferencje, laby](#konferencje-laby)
+- [Predictive processing](#predictive-processing)
+  - [Intro](#intro)
+  - [From the man himself...](#from-the-man-himself)
+  - [More on Bayesian probability](#more-on-bayesian-probability)
+  - [More videos & web](#more-videos--web)
+  - [Papers](#papers)
+- [Audio feature extraction](#audio-feature-extraction)
+- [Konferencje, laby](#konferencje-laby)
 
 *Jeśli znalazłe(a)ś coś ciekawego i chciał(a)byś uzupełnić tę listę, zrób fork i pull request! Jeśli jest to artykuł naukowy, wklej tu opis bibliograficzny (APA) oraz link do full-textu, jeśli jest gdzieś dostępny (najlepiej poszukać w Google Scholar). Nie uploadujcie pdf-ów do repo, chyba że jesteście pewni, że dany artykuł jest w open acess (problemy z prawami autorskimi).*
 
-## Predictive coding
+## Predictive processing
 
 ### Intro
 
 1. [Basic Bayesian Brain](https://www.youtube.com/watch?v=c6OOtzbTXSU)
 2. [Brain predictions interfere with what you see](https://www.youtube.com/watch?v=RgWgfdLZciM&t=1s)
-3. [Lisa Feldman Barrett & Lex Fridman (polecam cały wywiad, ale ważne zaczyna się od 24:00)](https://www.youtube.com/watch?v=NbdRIVCBqNI&t=4838s)
+3. [Lisa Feldman Barrett & Lex Fridman (polecam cały wywiad, ale ważne dla PP rzeczy zaczynają się od 24:00)](https://www.youtube.com/watch?v=NbdRIVCBqNI&t=4838s)
 
 
 
